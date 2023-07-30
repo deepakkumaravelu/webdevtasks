@@ -1,0 +1,16 @@
+.form-element{
+    margin: 10px;
+}
+#bio{
+    margin-bottom: -1px;
+    padding: 10px;
+}
+#password{
+    margin-left: 1rem;
+}
+#email{
+    margin-left: 2rem;
+}
+#phone{
+    margin-left: 2rem;
+}
